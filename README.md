@@ -78,7 +78,7 @@ See the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Credits
 
-Created by [Your Name].  
+Created by Devanshu Sharma gi([emotional-push](https://github.com/emotional-push)).  
 Inspired by coordinate overlays in popular sandbox games.
 
 ---
