@@ -83,4 +83,15 @@ Inspired by coordinate overlays in popular sandbox games.
 
 ---
 
+## 🆕 What's New in V2
+
+- **Auto Player Detection:** If the `player` field is not set, the script will attempt to find a GameObject tagged as "Player" automatically.
+- **Overlay Safety:** Overlay size and offset values are clamped to prevent negative or too-small values.
+- **Error Overlay:** If the player is not assigned or found, a clear error message is displayed in the overlay.
+- **Resource Cleanup:** The background texture is properly destroyed when the script is destroyed, preventing memory leaks.
+- **Improved Visuals:** Uses Unity's rich text for bold labels and a more robust GUIStyle.
+- **Code Robustness:** Defensive programming practices for more reliable use in any Unity project.
+
+---
+
 **Happy developing**
